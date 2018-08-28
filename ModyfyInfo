@@ -2,3 +2,7 @@ opencv-3.2.0\modules\stitching
 	在stitch类中加入了warpmapsX_ warpmapsY_用来保存图像变形映射 增加maskwarped_用以保存已经变形后的图像mask。
 	在stitcher.cpp中 增加了用以保存map变形的代码。
 	改动RotationWarper基类 增加uxmap_ 增加uymap dst_roi用以保存builmap后得到的映射关系。
+	改动了blenders基类 增加了clear()函数方法，同时重写了muiltbelnder类中的clear()方法，使其仅仅清理而不释放
+	改动了blender类基类与muiltbelender中的belend()函数，使其不释放内部成员所占用的内存，从而避免重复申请内存。
+
+

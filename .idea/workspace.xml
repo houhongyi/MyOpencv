@@ -153,7 +153,7 @@
   <component name="ChangeListManager">
     <list default="true" id="6e6a2c9f-fe60-46f1-ac90-264ffd3f7d95" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/stitching" afterPath="$PROJECT_DIR$/modules/stitching" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/stitching/src/stitcher.cpp" afterPath="$PROJECT_DIR$/modules/stitching/src/stitcher.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ModyfyInfo" afterPath="$PROJECT_DIR$/ModyfyInfo" />
     </list>
     <ignored path="opencv-3.2.0.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -173,27 +173,27 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="stitcher.cpp" pinned="false" current-in-tab="true">
+      <file leaf-file-name="stitcher.cpp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/modules/stitching/src/stitcher.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="616">
-              <caret line="402" column="29" selection-start-line="402" selection-start-column="29" selection-end-line="402" selection-end-column="29" />
+            <state relative-caret-position="770">
+              <caret line="414" column="34" selection-start-line="414" selection-start-column="4" selection-end-line="414" selection-end-column="34" />
               <folding>
                 <element signature="e#2156#2178#0" expanded="true" />
                 <element signature="e#2762#3169#0" expanded="true" />
                 <element signature="e#3222#3288#0" expanded="true" />
-                <element signature="e#20576#21007#0" expanded="true" />
-                <element signature="e#21068#21135#0" expanded="true" />
+                <element signature="e#20580#21011#0" expanded="true" />
+                <element signature="e#21072#21139#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="blenders.cpp" pinned="false" current-in-tab="false">
+      <file leaf-file-name="blenders.cpp" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/modules/stitching/src/blenders.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="233" column="9" selection-start-line="233" selection-start-column="9" selection-end-line="233" selection-end-column="9" />
+            <state relative-caret-position="405">
+              <caret line="79" column="1" selection-start-line="79" selection-start-column="1" selection-end-line="79" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -212,8 +212,8 @@
       <file leaf-file-name="blenders.hpp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/modules/stitching/include/opencv2/stitching/detail/blenders.hpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="318">
-              <caret line="139" column="8" selection-start-line="139" selection-start-column="8" selection-end-line="139" selection-end-column="8" />
+            <state relative-caret-position="230">
+              <caret line="90" column="25" selection-start-line="90" selection-start-column="17" selection-end-line="90" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -242,8 +242,9 @@
         <option value="$PROJECT_DIR$/modules/stitching/src/util_log.hpp" />
         <option value="$PROJECT_DIR$/modules/stitching/src/warpers.cpp" />
         <option value="$PROJECT_DIR$/modules/stitching/include/opencv2/stitching.hpp" />
-        <option value="$PROJECT_DIR$/modules/stitching/include/opencv2/stitching/detail/blenders.hpp" />
         <option value="$PROJECT_DIR$/modules/stitching/src/stitcher.cpp" />
+        <option value="$PROJECT_DIR$/modules/stitching/include/opencv2/stitching/detail/blenders.hpp" />
+        <option value="$PROJECT_DIR$/modules/stitching/src/blenders.cpp" />
       </list>
     </option>
   </component>
@@ -1281,12 +1282,12 @@
       <workItem from="1535016242551" duration="7760000" />
       <workItem from="1535077032822" duration="15765000" />
       <workItem from="1535357235554" duration="13229000" />
-      <workItem from="1535423745518" duration="12479000" />
+      <workItem from="1535423745518" duration="17869000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="68776000" />
+    <option name="totallyTimeSpent" value="74166000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1920" y="24" width="1920" height="1056" extended-state="6" />
@@ -1379,8 +1380,8 @@
             <element signature="e#2156#2178#0" expanded="true" />
             <element signature="e#2762#3169#0" expanded="true" />
             <element signature="e#3222#3288#0" expanded="true" />
-            <element signature="e#20576#21007#0" expanded="true" />
-            <element signature="e#21068#21135#0" expanded="true" />
+            <element signature="e#20580#21011#0" expanded="true" />
+            <element signature="e#21072#21139#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1427,8 +1428,8 @@
             <element signature="e#2156#2178#0" expanded="true" />
             <element signature="e#2762#3169#0" expanded="true" />
             <element signature="e#3222#3288#0" expanded="true" />
-            <element signature="e#20576#21007#0" expanded="true" />
-            <element signature="e#21068#21135#0" expanded="true" />
+            <element signature="e#20580#21011#0" expanded="true" />
+            <element signature="e#21072#21139#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1465,8 +1466,8 @@
             <element signature="e#2156#2178#0" expanded="true" />
             <element signature="e#2762#3169#0" expanded="true" />
             <element signature="e#3222#3288#0" expanded="true" />
-            <element signature="e#20576#21007#0" expanded="true" />
-            <element signature="e#21068#21135#0" expanded="true" />
+            <element signature="e#20580#21011#0" expanded="true" />
+            <element signature="e#21072#21139#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1731,14 +1732,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/modules/stitching/include/opencv2/stitching/detail/blenders.hpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="318">
-          <caret line="139" column="8" selection-start-line="139" selection-start-column="8" selection-end-line="139" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/modules/core/src/copy.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-540">
@@ -1747,25 +1740,33 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/modules/stitching/src/blenders.cpp">
+    <entry file="file://$PROJECT_DIR$/modules/stitching/include/opencv2/stitching/detail/blenders.hpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="233" column="9" selection-start-line="233" selection-start-column="9" selection-end-line="233" selection-end-column="9" />
+        <state relative-caret-position="230">
+          <caret line="90" column="25" selection-start-line="90" selection-start-column="17" selection-end-line="90" selection-end-column="25" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/modules/stitching/src/stitcher.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="616">
-          <caret line="402" column="29" selection-start-line="402" selection-start-column="29" selection-end-line="402" selection-end-column="29" />
+        <state relative-caret-position="770">
+          <caret line="414" column="34" selection-start-line="414" selection-start-column="4" selection-end-line="414" selection-end-column="34" />
           <folding>
             <element signature="e#2156#2178#0" expanded="true" />
             <element signature="e#2762#3169#0" expanded="true" />
             <element signature="e#3222#3288#0" expanded="true" />
-            <element signature="e#20576#21007#0" expanded="true" />
-            <element signature="e#21068#21135#0" expanded="true" />
+            <element signature="e#20580#21011#0" expanded="true" />
+            <element signature="e#21072#21139#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/stitching/src/blenders.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="79" column="1" selection-start-line="79" selection-start-column="1" selection-end-line="79" selection-end-column="1" />
+          <folding />
         </state>
       </provider>
     </entry>
