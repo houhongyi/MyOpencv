@@ -392,6 +392,7 @@
       <sourceFolder url="file://$MODULE_DIR$/modules/imgproc/src/opencl/filter2D.cl" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/modules/imgproc/src/opencl/resize.cl" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/modules/imgproc/src/opencl/laplacian3.cl" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/modules/imgproc/src/opencl/sepFilter3x3.cl" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/modules/imgproc/src/opencl/corner.cl" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/modules/imgproc/src/opencl/bilateral.cl" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/modules/imgproc/src/opencl/histogram.cl" isTestSource="false" />
@@ -406,10 +407,10 @@
       <sourceFolder url="file://$MODULE_DIR$/modules/imgproc/src/opencl/filter2DSmall.cl" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/modules/imgproc/src/opencl/filterSepRow.cl" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/modules/imgproc/src/opencl/morph3x3.cl" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/modules/imgproc/src/opencl/morph.cl" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/modules/imgproc/src/opencl/boxFilter3x3.cl" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/modules/imgproc/src/opencl/calc_back_project.cl" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/modules/imgproc/src/opencl/canny.cl" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/modules/imgproc/src/opencl/sepFilter3x3.cl" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/modules/imgproc/src/opencl/boxFilter.cl" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/modules/imgproc/src/opencl/laplacian5.cl" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/modules/imgproc/src/opencl/logPolar.cl" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/modules/imgproc/src/opencl/filterSep_singlePass.cl" isTestSource="false" />
@@ -419,18 +420,17 @@
       <sourceFolder url="file://$MODULE_DIR$/modules/imgproc/src/opencl/medianFilter.cl" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/modules/imgproc/src/opencl/precornerdetect.cl" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/modules/imgproc/src/opencl/blend_linear.cl" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/modules/imgproc/src/opencl/cvtcolor.cl" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/modules/imgproc/src/opencl/warp_affine.cl" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/modules/imgproc/src/opencl/remap.cl" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/modules/imgproc/src/opencl/linearPolar.cl" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/modules/imgproc/src/opencl/threshold.cl" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/modules/imgproc/src/opencl/pyr_up.cl" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/modules/imgproc/src/opencl/boxFilter3x3.cl" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/modules/imgproc/src/opencl/cvtcolor.cl" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/modules/imgproc/src/opencl/pyr_down.cl" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/modules/imgproc/src/opencl/filterSmall.cl" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/modules/imgproc/src/opencl/clahe.cl" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/modules/imgproc/src/opencl/boxFilter.cl" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/modules/imgproc/src/opencl/warp_transform.cl" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/modules/imgproc/src/opencl/morph.cl" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/modules/imgproc/src/opencl/covardata.cl" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/modules/imgproc/src/distransform.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/modules/imgproc/src/lsd.cpp" isTestSource="false" />
@@ -667,7 +667,7 @@
       <sourceFolder url="file://$MODULE_DIR$/modules/calib3d/perf/perf_cicrlesGrid.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/modules/calib3d/perf/opencl/perf_stereobm.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/modules/calib3d/perf/perf_stereosgbm.cpp" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/modules/calib3d/test/test_precomp.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/modules/calib3d/test/test_stereomatching.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/modules/calib3d/test/test_solvepnp_ransac.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/modules/calib3d/test/opencl/test_stereobm.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/modules/calib3d/test/test_homography_decomp.cpp" isTestSource="false" />
@@ -675,10 +675,10 @@
       <sourceFolder url="file://$MODULE_DIR$/modules/calib3d/test/test_cameracalibration.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/modules/calib3d/test/test_undistort_badarg.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/modules/calib3d/test/test_decompose_projection.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/modules/calib3d/test/test_precomp.hpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/modules/calib3d/test/test_compose_rt.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/modules/calib3d/test/test_posit.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/modules/calib3d/test/test_cornerssubpix.cpp" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/modules/calib3d/test/test_stereomatching.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/modules/calib3d/test/test_fisheye.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/modules/calib3d/test/test_homography.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/modules/calib3d/test/test_cameracalibration_tilt.cpp" isTestSource="false" />
@@ -944,20 +944,20 @@
       <sourceFolder url="file://$MODULE_DIR$/modules/photo/test/test_precomp.hpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/modules/core/src/kmeans.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/modules/core/src/stl.cpp" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/modules/core/src/opencl/arithm.cl" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/modules/core/src/opencl/reduce2.cl" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/modules/core/src/opencl/repeat.cl" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/modules/core/src/opencl/copyset.cl" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/modules/core/src/opencl/flip.cl" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/modules/core/src/opencl/reduce.cl" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/modules/core/src/opencl/meanstddev.cl" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/modules/core/src/opencl/normalize.cl" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/modules/core/src/opencl/mulspectrums.cl" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/modules/core/src/opencl/arithm.cl" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/modules/core/src/opencl/cvtclr_dx.cl" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/modules/core/src/opencl/copymakeborder.cl" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/modules/core/src/opencl/reduce.cl" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/modules/core/src/opencl/split_merge.cl" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/modules/core/src/opencl/gemm.cl" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/modules/core/src/opencl/lut.cl" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/modules/core/src/opencl/inrange.cl" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/modules/core/src/opencl/set_identity.cl" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/modules/core/src/opencl/runtime/opencl_core.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/modules/core/src/opencl/runtime/runtime_common.hpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/modules/core/src/opencl/runtime/opencl_clamdfft.cpp" isTestSource="false" />
@@ -966,13 +966,13 @@
       <sourceFolder url="file://$MODULE_DIR$/modules/core/src/opencl/runtime/autogenerated/opencl_clamdblas_impl.hpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/modules/core/src/opencl/runtime/autogenerated/opencl_clamdfft_impl.hpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/modules/core/src/opencl/runtime/opencl_clamdblas.cpp" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/modules/core/src/opencl/cvtclr_dx.cl" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/modules/core/src/opencl/set_identity.cl" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/modules/core/src/opencl/fft.cl" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/modules/core/src/opencl/mulspectrums.cl" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/modules/core/src/opencl/convert.cl" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/modules/core/src/opencl/mixchannels.cl" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/modules/core/src/opencl/transpose.cl" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/modules/core/src/opencl/minmaxloc.cl" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/modules/core/src/opencl/fft.cl" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/modules/core/src/opencl/flip.cl" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/modules/core/src/split.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/modules/core/src/datastructs.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/modules/core/src/hal_internal.hpp" isTestSource="false" />
@@ -1068,12 +1068,13 @@
       <sourceFolder url="file://$MODULE_DIR$/modules/core/include/opencv2/core/cuda/detail/reduce_key_val.hpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/modules/core/include/opencv2/core/mat.hpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/modules/core/include/opencv2/core/ptr.inl.hpp" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/modules/core/include/opencv2/core/persistence.hpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/modules/core/include/opencv2/core/types_c.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/modules/core/include/opencv2/core/persistence.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/modules/core/include/opencv2/core/cvdef.h" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/modules/core/include/opencv2/core/wimage.hpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/modules/core/include/opencv2/core/affine.hpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/modules/core/include/opencv2/core/cvstd.hpp" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/modules/core/include/opencv2/core/cvdef.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/modules/core/include/opencv2/core/private.cuda.hpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/modules/core/include/opencv2/core/hal/interface.h" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/modules/core/include/opencv2/core/hal/intrin_cpp.hpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/modules/core/include/opencv2/core/hal/intrin_neon.hpp" isTestSource="false" />
@@ -1086,7 +1087,6 @@
       <sourceFolder url="file://$MODULE_DIR$/modules/core/include/opencv2/core/saturate.hpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/modules/core/include/opencv2/core/neon_utils.hpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/modules/core/include/opencv2/core/cvstd.inl.hpp" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/modules/core/include/opencv2/core/private.cuda.hpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/modules/core/include/opencv2/core/opengl.hpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/modules/core/include/opencv2/core/cuda.inl.hpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/modules/core/include/opencv2/core/core.hpp" isTestSource="false" />
@@ -1197,16 +1197,16 @@
       <sourceFolder url="file://$MODULE_DIR$/modules/stitching/perf/opencl/perf_stitch.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/modules/stitching/perf/opencl/perf_warpers.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/modules/stitching/include/opencv2/stitching.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/modules/stitching/include/opencv2/stitching/detail/util_inl.hpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/modules/stitching/include/opencv2/stitching/detail/motion_estimators.hpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/modules/stitching/include/opencv2/stitching/detail/blenders.hpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/modules/stitching/include/opencv2/stitching/detail/seam_finders.hpp" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/modules/stitching/include/opencv2/stitching/detail/util_inl.hpp" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/modules/stitching/include/opencv2/stitching/detail/warpers_inl.hpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/modules/stitching/include/opencv2/stitching/detail/util.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/modules/stitching/include/opencv2/stitching/detail/warpers_inl.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/modules/stitching/include/opencv2/stitching/detail/camera.hpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/modules/stitching/include/opencv2/stitching/detail/warpers.hpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/modules/stitching/include/opencv2/stitching/detail/matchers.hpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/modules/stitching/include/opencv2/stitching/detail/autocalib.hpp" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/modules/stitching/include/opencv2/stitching/detail/camera.hpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/modules/stitching/include/opencv2/stitching/detail/exposure_compensate.hpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/modules/stitching/include/opencv2/stitching/detail/timelapsers.hpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/modules/stitching/include/opencv2/stitching/warpers.hpp" isTestSource="false" />
