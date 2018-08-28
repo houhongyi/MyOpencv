@@ -1,0 +1,1822 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" assignedExecutableTargets="true" buildAllGenerated="true">
+    <generated>
+      <config projectName="OpenCV" targetName="opencv_perf_photo_pch_dephelp" />
+      <config projectName="OpenCV" targetName="pch_Generate_opencv_stitching" />
+      <config projectName="OpenCV" targetName="opencv_test_video_pch_dephelp" />
+      <config projectName="OpenCV" targetName="opencv_test_highgui_pch_dephelp" />
+      <config projectName="OpenCV" targetName="pch_Generate_opencv_superres" />
+      <config projectName="OpenCV" targetName="opencv_perf_imgcodecs_pch_dephelp" />
+      <config projectName="OpenCV" targetName="opencv_perf_stitching" />
+      <config projectName="OpenCV" targetName="pch_Generate_opencv_perf_stitching" />
+      <config projectName="OpenCV" targetName="opencv_python2" />
+      <config projectName="OpenCV" targetName="pch_Generate_opencv_flann" />
+      <config projectName="OpenCV" targetName="opencv_test_core" />
+      <config projectName="OpenCV" targetName="opencv_test_flann_pch_dephelp" />
+      <config projectName="OpenCV" targetName="opencv_test_shape_pch_dephelp" />
+      <config projectName="OpenCV" targetName="pch_Generate_opencv_test_imgproc" />
+      <config projectName="OpenCV" targetName="pch_Generate_opencv_perf_imgcodecs" />
+      <config projectName="OpenCV" targetName="opencv_perf_imgcodecs" />
+      <config projectName="OpenCV" targetName="pch_Generate_opencv_perf_photo" />
+      <config projectName="OpenCV" targetName="opencv_ts_pch_dephelp" />
+      <config projectName="OpenCV" targetName="pch_Generate_opencv_imgproc" />
+      <config projectName="OpenCV" targetName="opencv_test_photo" />
+      <config projectName="OpenCV" targetName="opencv_flann_pch_dephelp" />
+      <config projectName="OpenCV" targetName="opencv_version" />
+      <config projectName="OpenCV" targetName="opencv_videostab" />
+      <config projectName="OpenCV" targetName="pch_Generate_opencv_calib3d" />
+      <config projectName="OpenCV" targetName="opencv_highgui_pch_dephelp" />
+      <config projectName="OpenCV" targetName="opencv_perf_objdetect" />
+      <config projectName="OpenCV" targetName="pch_Generate_opencv_perf_objdetect" />
+      <config projectName="OpenCV" targetName="opencv_test_shape" />
+      <config projectName="OpenCV" targetName="pch_Generate_opencv_perf_superres" />
+      <config projectName="OpenCV" targetName="opencv_ml_pch_dephelp" />
+      <config projectName="OpenCV" targetName="opencv_test_video" />
+      <config projectName="OpenCV" targetName="opencv_visualisation" />
+      <config projectName="OpenCV" targetName="libwebp" />
+      <config projectName="OpenCV" targetName="opencv_test_features2d_pch_dephelp" />
+      <config projectName="OpenCV" targetName="pch_Generate_opencv_imgcodecs" />
+      <config projectName="OpenCV" targetName="opencv_perf_videoio_pch_dephelp" />
+      <config projectName="OpenCV" targetName="pch_Generate_opencv_objdetect" />
+      <config projectName="OpenCV" targetName="opencv_test_superres" />
+      <config projectName="OpenCV" targetName="opencv_superres_pch_dephelp" />
+      <config projectName="OpenCV" targetName="opencv_features2d" />
+      <config projectName="OpenCV" targetName="opencv_highgui" />
+      <config projectName="OpenCV" targetName="opencv_test_core_pch_dephelp" />
+      <config projectName="OpenCV" targetName="opencv_imgcodecs" />
+      <config projectName="OpenCV" targetName="opencv_test_imgcodecs" />
+      <config projectName="OpenCV" targetName="pch_Generate_opencv_test_imgcodecs" />
+      <config projectName="OpenCV" targetName="opencv_test_superres_pch_dephelp" />
+      <config projectName="OpenCV" targetName="opencv_annotation" />
+      <config projectName="OpenCV" targetName="pch_Generate_opencv_test_ml" />
+      <config projectName="OpenCV" targetName="opencv_imgproc" />
+      <config projectName="OpenCV" targetName="opencv_test_stitching" />
+      <config projectName="OpenCV" targetName="pch_Generate_opencv_test_stitching" />
+      <config projectName="OpenCV" targetName="opencv_perf_tests" />
+      <config projectName="OpenCV" targetName="opencv_test_highgui" />
+      <config projectName="OpenCV" targetName="opencv_shape_pch_dephelp" />
+      <config projectName="OpenCV" targetName="opencv_ts" />
+      <config projectName="OpenCV" targetName="pch_Generate_opencv_test_photo" />
+      <config projectName="OpenCV" targetName="pch_Generate_opencv_perf_imgproc" />
+      <config projectName="OpenCV" targetName="opencv_superres" />
+      <config projectName="OpenCV" targetName="opencv_videoio_pch_dephelp" />
+      <config projectName="OpenCV" targetName="opencv_shape" />
+      <config projectName="OpenCV" targetName="opencv_objdetect_pch_dephelp" />
+      <config projectName="OpenCV" targetName="pch_Generate_opencv_perf_videoio" />
+      <config projectName="OpenCV" targetName="opencv_video" />
+      <config projectName="OpenCV" targetName="pch_Generate_opencv_photo" />
+      <config projectName="OpenCV" targetName="opencv_test_photo_pch_dephelp" />
+      <config projectName="OpenCV" targetName="opencv_core" />
+      <config projectName="OpenCV" targetName="opencv_test_imgproc_pch_dephelp" />
+      <config projectName="OpenCV" targetName="pch_Generate_opencv_perf_calib3d" />
+      <config projectName="OpenCV" targetName="opencv_videoio" />
+      <config projectName="OpenCV" targetName="opencv_imgcodecs_pch_dephelp" />
+      <config projectName="OpenCV" targetName="opencv_perf_features2d_pch_dephelp" />
+      <config projectName="OpenCV" targetName="opencv_test_imgproc" />
+      <config projectName="OpenCV" targetName="opencv_stitching" />
+      <config projectName="OpenCV" targetName="opencv_perf_superres_pch_dephelp" />
+      <config projectName="OpenCV" targetName="opencv_test_videoio" />
+      <config projectName="OpenCV" targetName="opencv_ml" />
+      <config projectName="OpenCV" targetName="pch_Generate_opencv_perf_video" />
+      <config projectName="OpenCV" targetName="opencv_perf_imgproc_pch_dephelp" />
+      <config projectName="OpenCV" targetName="opencv_test_ml_pch_dephelp" />
+      <config projectName="OpenCV" targetName="opencv_calib3d" />
+      <config projectName="OpenCV" targetName="opencv_stitching_pch_dephelp" />
+      <config projectName="OpenCV" targetName="uninstall" />
+      <config projectName="OpenCV" targetName="pch_Generate_opencv_videoio" />
+      <config projectName="OpenCV" targetName="pch_Generate_opencv_ts" />
+      <config projectName="OpenCV" targetName="opencv_createsamples" />
+      <config projectName="OpenCV" targetName="opencv_test_calib3d" />
+      <config projectName="OpenCV" targetName="opencv_imgproc_pch_dephelp" />
+      <config projectName="OpenCV" targetName="opencv_perf_imgproc" />
+      <config projectName="OpenCV" targetName="pch_Generate_opencv_test_features2d" />
+      <config projectName="OpenCV" targetName="opencv_test_videoio_pch_dephelp" />
+      <config projectName="OpenCV" targetName="opencv_test_features2d" />
+      <config projectName="OpenCV" targetName="opencv_perf_objdetect_pch_dephelp" />
+      <config projectName="OpenCV" targetName="pch_Generate_opencv_core" />
+      <config projectName="OpenCV" targetName="pch_Generate_opencv_features2d" />
+      <config projectName="OpenCV" targetName="pch_Generate_opencv_test_highgui" />
+      <config projectName="OpenCV" targetName="opencv_flann" />
+      <config projectName="OpenCV" targetName="pch_Generate_opencv_test_videoio" />
+      <config projectName="OpenCV" targetName="opencv_traincascade" />
+      <config projectName="OpenCV" targetName="opencv_tests" />
+      <config projectName="OpenCV" targetName="pch_Generate_opencv_highgui" />
+      <config projectName="OpenCV" targetName="opencv_perf_photo" />
+      <config projectName="OpenCV" targetName="opencv_perf_superres" />
+      <config projectName="OpenCV" targetName="opencv_core_pch_dephelp" />
+      <config projectName="OpenCV" targetName="pch_Generate_opencv_ml" />
+      <config projectName="OpenCV" targetName="opencv_test_flann" />
+      <config projectName="OpenCV" targetName="opencv_perf_video" />
+      <config projectName="OpenCV" targetName="pch_Generate_opencv_test_superres" />
+      <config projectName="OpenCV" targetName="IlmImf" />
+      <config projectName="OpenCV" targetName="opencv_modules" />
+      <config projectName="OpenCV" targetName="opencv_features2d_pch_dephelp" />
+      <config projectName="OpenCV" targetName="pch_Generate_opencv_perf_core" />
+      <config projectName="OpenCV" targetName="pch_Generate_opencv_test_objdetect" />
+      <config projectName="OpenCV" targetName="opencv_test_objdetect" />
+      <config projectName="OpenCV" targetName="pch_Generate_opencv_test_calib3d" />
+      <config projectName="OpenCV" targetName="opencv_calib3d_pch_dephelp" />
+      <config projectName="OpenCV" targetName="opencv_test_imgcodecs_pch_dephelp" />
+      <config projectName="OpenCV" targetName="pch_Generate_opencv_test_core" />
+      <config projectName="OpenCV" targetName="opencv_perf_core_pch_dephelp" />
+      <config projectName="OpenCV" targetName="opencv_test_objdetect_pch_dephelp" />
+      <config projectName="OpenCV" targetName="opencv_test_ml" />
+      <config projectName="OpenCV" targetName="opencv_perf_calib3d" />
+      <config projectName="OpenCV" targetName="pch_Generate_opencv_shape" />
+      <config projectName="OpenCV" targetName="pch_Generate_opencv_video" />
+      <config projectName="OpenCV" targetName="opencv_perf_stitching_pch_dephelp" />
+      <config projectName="OpenCV" targetName="pch_Generate_opencv_test_video" />
+      <config projectName="OpenCV" targetName="pch_Generate_opencv_test_flann" />
+      <config projectName="OpenCV" targetName="opencv_photo_pch_dephelp" />
+      <config projectName="OpenCV" targetName="opencv_perf_core" />
+      <config projectName="OpenCV" targetName="opencv_videostab_pch_dephelp" />
+      <config projectName="OpenCV" targetName="opencv_perf_calib3d_pch_dephelp" />
+      <config projectName="OpenCV" targetName="opencv_perf_videoio" />
+      <config projectName="OpenCV" targetName="opencv_objdetect" />
+      <config projectName="OpenCV" targetName="opencv_video_pch_dephelp" />
+      <config projectName="OpenCV" targetName="opencv_test_stitching_pch_dephelp" />
+      <config projectName="OpenCV" targetName="opencv_perf_video_pch_dephelp" />
+      <config projectName="OpenCV" targetName="pch_Generate_opencv_videostab" />
+      <config projectName="OpenCV" targetName="opencv_perf_features2d" />
+      <config projectName="OpenCV" targetName="opencv_test_calib3d_pch_dephelp" />
+      <config projectName="OpenCV" targetName="pch_Generate_opencv_perf_features2d" />
+      <config projectName="OpenCV" targetName="opencv_photo" />
+      <config projectName="OpenCV" targetName="pch_Generate_opencv_test_shape" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="false" GENERATION_PASS_SYSTEM_ENVIRONMENT="true">
+    <ADDITIONAL_GENERATION_ENVIRONMENT>
+      <envs />
+    </ADDITIONAL_GENERATION_ENVIRONMENT>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6e6a2c9f-fe60-46f1-ac90-264ffd3f7d95" name="Default" comment="" />
+    <ignored path="opencv-3.2.0.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="opencv-3.2.0" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="stitcher.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modules/stitching/src/stitcher.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="626">
+              <caret line="399" column="42" selection-start-line="399" selection-start-column="42" selection-end-line="399" selection-end-column="42" />
+              <folding>
+                <element signature="e#2731#3138#0" expanded="true" />
+                <element signature="e#3191#3257#0" expanded="true" />
+                <element signature="e#20740#21171#0" expanded="true" />
+                <element signature="e#21232#21299#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="stitching.hpp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/modules/stitching/include/opencv2/stitching.hpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="846">
+              <caret line="304" column="40" selection-start-line="304" selection-start-column="40" selection-end-line="304" selection-end-column="40" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="warpers.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modules/stitching/src/warpers.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="407" column="39" selection-start-line="407" selection-start-column="39" selection-end-line="407" selection-end-column="39" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="imgwarp.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modules/imgproc/src/imgwarp.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="484">
+              <caret line="4896" column="9" selection-start-line="4896" selection-start-column="9" selection-end-line="4896" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="warpers.hpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modules/stitching/include/opencv2/stitching/warpers.hpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="502">
+              <caret line="73" column="34" selection-start-line="73" selection-start-column="34" selection-end-line="73" selection-end-column="34" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mat.inl.hpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modules/core/include/opencv2/core/mat.inl.hpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="318">
+              <caret line="950" column="10" selection-start-line="950" selection-start-column="10" selection-end-line="950" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="util_log.hpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modules/stitching/src/util_log.hpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="22" column="15" selection-start-line="14" selection-start-column="2" selection-end-line="22" selection-end-column="15" />
+              <folding>
+                <element signature="e#405#671#0" expanded="true" />
+                <element signature="e#804#834#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="umatrix.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modules/core/src/umatrix.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="318">
+              <caret line="746" column="10" selection-start-line="746" selection-start-column="10" selection-end-line="746" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/modules/core/include/opencv2/core/private.hpp" />
+        <option value="$PROJECT_DIR$/modules/stitching/include/opencv2/stitching/detail/warpers.hpp" />
+        <option value="$PROJECT_DIR$/modules/stitching/src/warpers.cpp" />
+        <option value="$PROJECT_DIR$/modules/stitching/src/util_log.hpp" />
+        <option value="$PROJECT_DIR$/modules/stitching/src/stitcher.cpp" />
+        <option value="$PROJECT_DIR$/modules/stitching/include/opencv2/stitching.hpp" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1920" />
+    <option name="y" value="24" />
+    <option name="width" value="1920" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="opencv-3.2.0" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="opencv-3.2.0" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="opencv-3.2.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewModuleNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="opencv-3.2.0" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="opencv-3.2.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="opencv-3.2.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="opencv-3.2.0" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="opencv-3.2.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="opencv-3.2.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="opencv-3.2.0" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="opencv-3.2.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="opencv-3.2.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="stitching" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="opencv-3.2.0" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="opencv-3.2.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="opencv-3.2.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="stitching" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="opencv-3.2.0" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="opencv-3.2.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="opencv-3.2.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="stitching" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="include" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="opencv2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="opencv-3.2.0" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="opencv-3.2.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="opencv-3.2.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="stitching" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="include" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="opencv2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="stitching" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="opencv-3.2.0" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="opencv-3.2.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="opencv-3.2.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="stitching" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="include" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="opencv2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="stitching" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="detail" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager" selected="Application.Build All">
+    <configuration default="true" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenCV" TARGET_NAME="opencv_modules" CONFIG_NAME="Debug" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenCV" TARGET_NAME="opencv_modules" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="opencv-3.2.0" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="opencv-3.2.0" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="opencv-3.2.0" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="opencv-3.2.0" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="opencv-3.2.0" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="opencv-3.2.0" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="opencv-3.2.0" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" EXPLICIT_BUILD_TARGET_NAME="all">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="opencv_modules" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenCV" TARGET_NAME="opencv_modules" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="opencv_perf_tests" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenCV" TARGET_NAME="opencv_perf_tests" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="opencv_tests" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenCV" TARGET_NAME="opencv_tests" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="uninstall" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenCV" TARGET_NAME="uninstall" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="libwebp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenCV" TARGET_NAME="libwebp" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="IlmImf" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenCV" TARGET_NAME="IlmImf" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="opencv_annotation" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenCV" TARGET_NAME="opencv_annotation" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenCV" RUN_TARGET_NAME="opencv_annotation">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="opencv_createsamples" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenCV" TARGET_NAME="opencv_createsamples" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenCV" RUN_TARGET_NAME="opencv_createsamples">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="opencv_traincascade" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenCV" TARGET_NAME="opencv_traincascade" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenCV" RUN_TARGET_NAME="opencv_traincascade">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="opencv_version" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenCV" TARGET_NAME="opencv_version" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenCV" RUN_TARGET_NAME="opencv_version">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="opencv_visualisation" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenCV" TARGET_NAME="opencv_visualisation" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenCV" RUN_TARGET_NAME="opencv_visualisation">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="opencv_calib3d" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenCV" TARGET_NAME="opencv_calib3d" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="opencv_calib3d_pch_dephelp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenCV" TARGET_NAME="opencv_calib3d_pch_dephelp" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="opencv_perf_calib3d" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenCV" TARGET_NAME="opencv_perf_calib3d" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenCV" RUN_TARGET_NAME="opencv_perf_calib3d">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="opencv_perf_calib3d_pch_dephelp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenCV" TARGET_NAME="opencv_perf_calib3d_pch_dephelp" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="opencv_test_calib3d" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenCV" TARGET_NAME="opencv_test_calib3d" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenCV" RUN_TARGET_NAME="opencv_test_calib3d">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="opencv_test_calib3d_pch_dephelp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenCV" TARGET_NAME="opencv_test_calib3d_pch_dephelp" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="pch_Generate_opencv_calib3d" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenCV" TARGET_NAME="pch_Generate_opencv_calib3d" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="pch_Generate_opencv_perf_calib3d" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenCV" TARGET_NAME="pch_Generate_opencv_perf_calib3d" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="pch_Generate_opencv_test_calib3d" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenCV" TARGET_NAME="pch_Generate_opencv_test_calib3d" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="opencv_core" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenCV" TARGET_NAME="opencv_core" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="opencv_core_pch_dephelp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenCV" TARGET_NAME="opencv_core_pch_dephelp" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="opencv_perf_core" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenCV" TARGET_NAME="opencv_perf_core" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenCV" RUN_TARGET_NAME="opencv_perf_core">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="opencv_perf_core_pch_dephelp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenCV" TARGET_NAME="opencv_perf_core_pch_dephelp" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="opencv_test_core" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenCV" TARGET_NAME="opencv_test_core" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenCV" RUN_TARGET_NAME="opencv_test_core">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="opencv_test_core_pch_dephelp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenCV" TARGET_NAME="opencv_test_core_pch_dephelp" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="pch_Generate_opencv_core" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenCV" TARGET_NAME="pch_Generate_opencv_core" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="pch_Generate_opencv_perf_core" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenCV" TARGET_NAME="pch_Generate_opencv_perf_core" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="pch_Generate_opencv_test_core" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenCV" TARGET_NAME="pch_Generate_opencv_test_core" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="opencv_features2d" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenCV" TARGET_NAME="opencv_features2d" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="opencv_features2d_pch_dephelp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenCV" TARGET_NAME="opencv_features2d_pch_dephelp" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="opencv_perf_features2d" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenCV" TARGET_NAME="opencv_perf_features2d" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenCV" RUN_TARGET_NAME="opencv_perf_features2d">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="opencv_perf_features2d_pch_dephelp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenCV" TARGET_NAME="opencv_perf_features2d_pch_dephelp" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="opencv_test_features2d" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenCV" TARGET_NAME="opencv_test_features2d" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenCV" RUN_TARGET_NAME="opencv_test_features2d">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="opencv_test_features2d_pch_dephelp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenCV" TARGET_NAME="opencv_test_features2d_pch_dephelp" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="pch_Generate_opencv_features2d" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenCV" TARGET_NAME="pch_Generate_opencv_features2d" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="pch_Generate_opencv_perf_features2d" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenCV" TARGET_NAME="pch_Generate_opencv_perf_features2d" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="pch_Generate_opencv_test_features2d" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenCV" TARGET_NAME="pch_Generate_opencv_test_features2d" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="opencv_flann" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenCV" TARGET_NAME="opencv_flann" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="opencv_flann_pch_dephelp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenCV" TARGET_NAME="opencv_flann_pch_dephelp" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="opencv_test_flann" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenCV" TARGET_NAME="opencv_test_flann" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenCV" RUN_TARGET_NAME="opencv_test_flann">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="opencv_test_flann_pch_dephelp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenCV" TARGET_NAME="opencv_test_flann_pch_dephelp" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="pch_Generate_opencv_flann" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenCV" TARGET_NAME="pch_Generate_opencv_flann" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="pch_Generate_opencv_test_flann" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenCV" TARGET_NAME="pch_Generate_opencv_test_flann" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="opencv_highgui" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenCV" TARGET_NAME="opencv_highgui" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="opencv_highgui_pch_dephelp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenCV" TARGET_NAME="opencv_highgui_pch_dephelp" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="opencv_test_highgui" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenCV" TARGET_NAME="opencv_test_highgui" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenCV" RUN_TARGET_NAME="opencv_test_highgui">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="opencv_test_highgui_pch_dephelp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenCV" TARGET_NAME="opencv_test_highgui_pch_dephelp" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="pch_Generate_opencv_highgui" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenCV" TARGET_NAME="pch_Generate_opencv_highgui" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="pch_Generate_opencv_test_highgui" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenCV" TARGET_NAME="pch_Generate_opencv_test_highgui" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="opencv_imgcodecs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenCV" TARGET_NAME="opencv_imgcodecs" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="opencv_imgcodecs_pch_dephelp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenCV" TARGET_NAME="opencv_imgcodecs_pch_dephelp" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="opencv_perf_imgcodecs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenCV" TARGET_NAME="opencv_perf_imgcodecs" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenCV" RUN_TARGET_NAME="opencv_perf_imgcodecs">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="opencv_perf_imgcodecs_pch_dephelp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenCV" TARGET_NAME="opencv_perf_imgcodecs_pch_dephelp" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="opencv_test_imgcodecs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenCV" TARGET_NAME="opencv_test_imgcodecs" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenCV" RUN_TARGET_NAME="opencv_test_imgcodecs">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="opencv_test_imgcodecs_pch_dephelp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenCV" TARGET_NAME="opencv_test_imgcodecs_pch_dephelp" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="pch_Generate_opencv_imgcodecs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenCV" TARGET_NAME="pch_Generate_opencv_imgcodecs" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="pch_Generate_opencv_perf_imgcodecs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenCV" TARGET_NAME="pch_Generate_opencv_perf_imgcodecs" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="pch_Generate_opencv_test_imgcodecs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenCV" TARGET_NAME="pch_Generate_opencv_test_imgcodecs" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="opencv_imgproc" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenCV" TARGET_NAME="opencv_imgproc" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="opencv_imgproc_pch_dephelp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenCV" TARGET_NAME="opencv_imgproc_pch_dephelp" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="opencv_perf_imgproc" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenCV" TARGET_NAME="opencv_perf_imgproc" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenCV" RUN_TARGET_NAME="opencv_perf_imgproc">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="opencv_perf_imgproc_pch_dephelp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenCV" TARGET_NAME="opencv_perf_imgproc_pch_dephelp" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="opencv_test_imgproc" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenCV" TARGET_NAME="opencv_test_imgproc" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenCV" RUN_TARGET_NAME="opencv_test_imgproc">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="opencv_test_imgproc_pch_dephelp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenCV" TARGET_NAME="opencv_test_imgproc_pch_dephelp" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="pch_Generate_opencv_imgproc" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenCV" TARGET_NAME="pch_Generate_opencv_imgproc" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="pch_Generate_opencv_perf_imgproc" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenCV" TARGET_NAME="pch_Generate_opencv_perf_imgproc" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="pch_Generate_opencv_test_imgproc" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenCV" TARGET_NAME="pch_Generate_opencv_test_imgproc" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="opencv_ml" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenCV" TARGET_NAME="opencv_ml" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="opencv_ml_pch_dephelp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenCV" TARGET_NAME="opencv_ml_pch_dephelp" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="opencv_test_ml" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenCV" TARGET_NAME="opencv_test_ml" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenCV" RUN_TARGET_NAME="opencv_test_ml">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="opencv_test_ml_pch_dephelp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenCV" TARGET_NAME="opencv_test_ml_pch_dephelp" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="pch_Generate_opencv_ml" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenCV" TARGET_NAME="pch_Generate_opencv_ml" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="pch_Generate_opencv_test_ml" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenCV" TARGET_NAME="pch_Generate_opencv_test_ml" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="opencv_objdetect" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenCV" TARGET_NAME="opencv_objdetect" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="opencv_objdetect_pch_dephelp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenCV" TARGET_NAME="opencv_objdetect_pch_dephelp" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="opencv_perf_objdetect" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenCV" TARGET_NAME="opencv_perf_objdetect" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenCV" RUN_TARGET_NAME="opencv_perf_objdetect">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="opencv_perf_objdetect_pch_dephelp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenCV" TARGET_NAME="opencv_perf_objdetect_pch_dephelp" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="opencv_test_objdetect" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenCV" TARGET_NAME="opencv_test_objdetect" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenCV" RUN_TARGET_NAME="opencv_test_objdetect">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="opencv_test_objdetect_pch_dephelp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenCV" TARGET_NAME="opencv_test_objdetect_pch_dephelp" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="pch_Generate_opencv_objdetect" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenCV" TARGET_NAME="pch_Generate_opencv_objdetect" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="pch_Generate_opencv_perf_objdetect" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenCV" TARGET_NAME="pch_Generate_opencv_perf_objdetect" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="pch_Generate_opencv_test_objdetect" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenCV" TARGET_NAME="pch_Generate_opencv_test_objdetect" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="opencv_perf_photo" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenCV" TARGET_NAME="opencv_perf_photo" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenCV" RUN_TARGET_NAME="opencv_perf_photo">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="opencv_perf_photo_pch_dephelp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenCV" TARGET_NAME="opencv_perf_photo_pch_dephelp" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="opencv_photo" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenCV" TARGET_NAME="opencv_photo" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="opencv_photo_pch_dephelp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenCV" TARGET_NAME="opencv_photo_pch_dephelp" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="opencv_test_photo" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenCV" TARGET_NAME="opencv_test_photo" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenCV" RUN_TARGET_NAME="opencv_test_photo">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="opencv_test_photo_pch_dephelp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenCV" TARGET_NAME="opencv_test_photo_pch_dephelp" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="pch_Generate_opencv_perf_photo" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenCV" TARGET_NAME="pch_Generate_opencv_perf_photo" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="pch_Generate_opencv_photo" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenCV" TARGET_NAME="pch_Generate_opencv_photo" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="pch_Generate_opencv_test_photo" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenCV" TARGET_NAME="pch_Generate_opencv_test_photo" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="opencv_python2" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenCV" TARGET_NAME="opencv_python2" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="opencv_shape" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenCV" TARGET_NAME="opencv_shape" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="opencv_shape_pch_dephelp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenCV" TARGET_NAME="opencv_shape_pch_dephelp" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="opencv_test_shape" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenCV" TARGET_NAME="opencv_test_shape" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenCV" RUN_TARGET_NAME="opencv_test_shape">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="opencv_test_shape_pch_dephelp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenCV" TARGET_NAME="opencv_test_shape_pch_dephelp" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="pch_Generate_opencv_shape" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenCV" TARGET_NAME="pch_Generate_opencv_shape" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="pch_Generate_opencv_test_shape" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenCV" TARGET_NAME="pch_Generate_opencv_test_shape" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="opencv_perf_stitching" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenCV" TARGET_NAME="opencv_perf_stitching" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenCV" RUN_TARGET_NAME="opencv_perf_stitching">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="opencv_perf_stitching_pch_dephelp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenCV" TARGET_NAME="opencv_perf_stitching_pch_dephelp" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="opencv_stitching" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenCV" TARGET_NAME="opencv_stitching" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="opencv_stitching_pch_dephelp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenCV" TARGET_NAME="opencv_stitching_pch_dephelp" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="opencv_test_stitching" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenCV" TARGET_NAME="opencv_test_stitching" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenCV" RUN_TARGET_NAME="opencv_test_stitching">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="opencv_test_stitching_pch_dephelp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenCV" TARGET_NAME="opencv_test_stitching_pch_dephelp" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="pch_Generate_opencv_perf_stitching" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenCV" TARGET_NAME="pch_Generate_opencv_perf_stitching" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="pch_Generate_opencv_stitching" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenCV" TARGET_NAME="pch_Generate_opencv_stitching" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="pch_Generate_opencv_test_stitching" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenCV" TARGET_NAME="pch_Generate_opencv_test_stitching" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="opencv_perf_superres" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenCV" TARGET_NAME="opencv_perf_superres" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenCV" RUN_TARGET_NAME="opencv_perf_superres">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="opencv_perf_superres_pch_dephelp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenCV" TARGET_NAME="opencv_perf_superres_pch_dephelp" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="opencv_superres" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenCV" TARGET_NAME="opencv_superres" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="opencv_superres_pch_dephelp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenCV" TARGET_NAME="opencv_superres_pch_dephelp" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="opencv_test_superres" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenCV" TARGET_NAME="opencv_test_superres" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenCV" RUN_TARGET_NAME="opencv_test_superres">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="opencv_test_superres_pch_dephelp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenCV" TARGET_NAME="opencv_test_superres_pch_dephelp" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="pch_Generate_opencv_perf_superres" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenCV" TARGET_NAME="pch_Generate_opencv_perf_superres" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="pch_Generate_opencv_superres" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenCV" TARGET_NAME="pch_Generate_opencv_superres" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="pch_Generate_opencv_test_superres" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenCV" TARGET_NAME="pch_Generate_opencv_test_superres" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="opencv_ts" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenCV" TARGET_NAME="opencv_ts" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="opencv_ts_pch_dephelp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenCV" TARGET_NAME="opencv_ts_pch_dephelp" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="pch_Generate_opencv_ts" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenCV" TARGET_NAME="pch_Generate_opencv_ts" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="opencv_perf_video" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenCV" TARGET_NAME="opencv_perf_video" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenCV" RUN_TARGET_NAME="opencv_perf_video">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="opencv_perf_video_pch_dephelp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenCV" TARGET_NAME="opencv_perf_video_pch_dephelp" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="opencv_test_video" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenCV" TARGET_NAME="opencv_test_video" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenCV" RUN_TARGET_NAME="opencv_test_video">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="opencv_test_video_pch_dephelp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenCV" TARGET_NAME="opencv_test_video_pch_dephelp" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="opencv_video" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenCV" TARGET_NAME="opencv_video" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="opencv_video_pch_dephelp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenCV" TARGET_NAME="opencv_video_pch_dephelp" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="pch_Generate_opencv_perf_video" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenCV" TARGET_NAME="pch_Generate_opencv_perf_video" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="pch_Generate_opencv_test_video" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenCV" TARGET_NAME="pch_Generate_opencv_test_video" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="pch_Generate_opencv_video" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenCV" TARGET_NAME="pch_Generate_opencv_video" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="opencv_perf_videoio" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenCV" TARGET_NAME="opencv_perf_videoio" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenCV" RUN_TARGET_NAME="opencv_perf_videoio">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="opencv_perf_videoio_pch_dephelp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenCV" TARGET_NAME="opencv_perf_videoio_pch_dephelp" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="opencv_test_videoio" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenCV" TARGET_NAME="opencv_test_videoio" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpenCV" RUN_TARGET_NAME="opencv_test_videoio">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="opencv_test_videoio_pch_dephelp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenCV" TARGET_NAME="opencv_test_videoio_pch_dephelp" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="opencv_videoio" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenCV" TARGET_NAME="opencv_videoio" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="opencv_videoio_pch_dephelp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenCV" TARGET_NAME="opencv_videoio_pch_dephelp" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="pch_Generate_opencv_perf_videoio" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenCV" TARGET_NAME="pch_Generate_opencv_perf_videoio" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="pch_Generate_opencv_test_videoio" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenCV" TARGET_NAME="pch_Generate_opencv_test_videoio" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="pch_Generate_opencv_videoio" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenCV" TARGET_NAME="pch_Generate_opencv_videoio" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="opencv_videostab" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenCV" TARGET_NAME="opencv_videostab" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="opencv_videostab_pch_dephelp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenCV" TARGET_NAME="opencv_videostab_pch_dephelp" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="pch_Generate_opencv_videostab" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpenCV" TARGET_NAME="pch_Generate_opencv_videostab" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <list size="142">
+      <item index="0" class="java.lang.String" itemvalue="Application.Build All" />
+      <item index="1" class="java.lang.String" itemvalue="Application.opencv_modules" />
+      <item index="2" class="java.lang.String" itemvalue="Application.opencv_perf_tests" />
+      <item index="3" class="java.lang.String" itemvalue="Application.opencv_tests" />
+      <item index="4" class="java.lang.String" itemvalue="Application.uninstall" />
+      <item index="5" class="java.lang.String" itemvalue="Application.libwebp" />
+      <item index="6" class="java.lang.String" itemvalue="Application.IlmImf" />
+      <item index="7" class="java.lang.String" itemvalue="Application.opencv_annotation" />
+      <item index="8" class="java.lang.String" itemvalue="Application.opencv_createsamples" />
+      <item index="9" class="java.lang.String" itemvalue="Application.opencv_traincascade" />
+      <item index="10" class="java.lang.String" itemvalue="Application.opencv_version" />
+      <item index="11" class="java.lang.String" itemvalue="Application.opencv_visualisation" />
+      <item index="12" class="java.lang.String" itemvalue="Application.opencv_calib3d" />
+      <item index="13" class="java.lang.String" itemvalue="Application.opencv_calib3d_pch_dephelp" />
+      <item index="14" class="java.lang.String" itemvalue="Application.opencv_perf_calib3d" />
+      <item index="15" class="java.lang.String" itemvalue="Application.opencv_perf_calib3d_pch_dephelp" />
+      <item index="16" class="java.lang.String" itemvalue="Application.opencv_test_calib3d" />
+      <item index="17" class="java.lang.String" itemvalue="Application.opencv_test_calib3d_pch_dephelp" />
+      <item index="18" class="java.lang.String" itemvalue="Application.pch_Generate_opencv_calib3d" />
+      <item index="19" class="java.lang.String" itemvalue="Application.pch_Generate_opencv_perf_calib3d" />
+      <item index="20" class="java.lang.String" itemvalue="Application.pch_Generate_opencv_test_calib3d" />
+      <item index="21" class="java.lang.String" itemvalue="Application.opencv_core" />
+      <item index="22" class="java.lang.String" itemvalue="Application.opencv_core_pch_dephelp" />
+      <item index="23" class="java.lang.String" itemvalue="Application.opencv_perf_core" />
+      <item index="24" class="java.lang.String" itemvalue="Application.opencv_perf_core_pch_dephelp" />
+      <item index="25" class="java.lang.String" itemvalue="Application.opencv_test_core" />
+      <item index="26" class="java.lang.String" itemvalue="Application.opencv_test_core_pch_dephelp" />
+      <item index="27" class="java.lang.String" itemvalue="Application.pch_Generate_opencv_core" />
+      <item index="28" class="java.lang.String" itemvalue="Application.pch_Generate_opencv_perf_core" />
+      <item index="29" class="java.lang.String" itemvalue="Application.pch_Generate_opencv_test_core" />
+      <item index="30" class="java.lang.String" itemvalue="Application.opencv_features2d" />
+      <item index="31" class="java.lang.String" itemvalue="Application.opencv_features2d_pch_dephelp" />
+      <item index="32" class="java.lang.String" itemvalue="Application.opencv_perf_features2d" />
+      <item index="33" class="java.lang.String" itemvalue="Application.opencv_perf_features2d_pch_dephelp" />
+      <item index="34" class="java.lang.String" itemvalue="Application.opencv_test_features2d" />
+      <item index="35" class="java.lang.String" itemvalue="Application.opencv_test_features2d_pch_dephelp" />
+      <item index="36" class="java.lang.String" itemvalue="Application.pch_Generate_opencv_features2d" />
+      <item index="37" class="java.lang.String" itemvalue="Application.pch_Generate_opencv_perf_features2d" />
+      <item index="38" class="java.lang.String" itemvalue="Application.pch_Generate_opencv_test_features2d" />
+      <item index="39" class="java.lang.String" itemvalue="Application.opencv_flann" />
+      <item index="40" class="java.lang.String" itemvalue="Application.opencv_flann_pch_dephelp" />
+      <item index="41" class="java.lang.String" itemvalue="Application.opencv_test_flann" />
+      <item index="42" class="java.lang.String" itemvalue="Application.opencv_test_flann_pch_dephelp" />
+      <item index="43" class="java.lang.String" itemvalue="Application.pch_Generate_opencv_flann" />
+      <item index="44" class="java.lang.String" itemvalue="Application.pch_Generate_opencv_test_flann" />
+      <item index="45" class="java.lang.String" itemvalue="Application.opencv_highgui" />
+      <item index="46" class="java.lang.String" itemvalue="Application.opencv_highgui_pch_dephelp" />
+      <item index="47" class="java.lang.String" itemvalue="Application.opencv_test_highgui" />
+      <item index="48" class="java.lang.String" itemvalue="Application.opencv_test_highgui_pch_dephelp" />
+      <item index="49" class="java.lang.String" itemvalue="Application.pch_Generate_opencv_highgui" />
+      <item index="50" class="java.lang.String" itemvalue="Application.pch_Generate_opencv_test_highgui" />
+      <item index="51" class="java.lang.String" itemvalue="Application.opencv_imgcodecs" />
+      <item index="52" class="java.lang.String" itemvalue="Application.opencv_imgcodecs_pch_dephelp" />
+      <item index="53" class="java.lang.String" itemvalue="Application.opencv_perf_imgcodecs" />
+      <item index="54" class="java.lang.String" itemvalue="Application.opencv_perf_imgcodecs_pch_dephelp" />
+      <item index="55" class="java.lang.String" itemvalue="Application.opencv_test_imgcodecs" />
+      <item index="56" class="java.lang.String" itemvalue="Application.opencv_test_imgcodecs_pch_dephelp" />
+      <item index="57" class="java.lang.String" itemvalue="Application.pch_Generate_opencv_imgcodecs" />
+      <item index="58" class="java.lang.String" itemvalue="Application.pch_Generate_opencv_perf_imgcodecs" />
+      <item index="59" class="java.lang.String" itemvalue="Application.pch_Generate_opencv_test_imgcodecs" />
+      <item index="60" class="java.lang.String" itemvalue="Application.opencv_imgproc" />
+      <item index="61" class="java.lang.String" itemvalue="Application.opencv_imgproc_pch_dephelp" />
+      <item index="62" class="java.lang.String" itemvalue="Application.opencv_perf_imgproc" />
+      <item index="63" class="java.lang.String" itemvalue="Application.opencv_perf_imgproc_pch_dephelp" />
+      <item index="64" class="java.lang.String" itemvalue="Application.opencv_test_imgproc" />
+      <item index="65" class="java.lang.String" itemvalue="Application.opencv_test_imgproc_pch_dephelp" />
+      <item index="66" class="java.lang.String" itemvalue="Application.pch_Generate_opencv_imgproc" />
+      <item index="67" class="java.lang.String" itemvalue="Application.pch_Generate_opencv_perf_imgproc" />
+      <item index="68" class="java.lang.String" itemvalue="Application.pch_Generate_opencv_test_imgproc" />
+      <item index="69" class="java.lang.String" itemvalue="Application.opencv_ml" />
+      <item index="70" class="java.lang.String" itemvalue="Application.opencv_ml_pch_dephelp" />
+      <item index="71" class="java.lang.String" itemvalue="Application.opencv_test_ml" />
+      <item index="72" class="java.lang.String" itemvalue="Application.opencv_test_ml_pch_dephelp" />
+      <item index="73" class="java.lang.String" itemvalue="Application.pch_Generate_opencv_ml" />
+      <item index="74" class="java.lang.String" itemvalue="Application.pch_Generate_opencv_test_ml" />
+      <item index="75" class="java.lang.String" itemvalue="Application.opencv_objdetect" />
+      <item index="76" class="java.lang.String" itemvalue="Application.opencv_objdetect_pch_dephelp" />
+      <item index="77" class="java.lang.String" itemvalue="Application.opencv_perf_objdetect" />
+      <item index="78" class="java.lang.String" itemvalue="Application.opencv_perf_objdetect_pch_dephelp" />
+      <item index="79" class="java.lang.String" itemvalue="Application.opencv_test_objdetect" />
+      <item index="80" class="java.lang.String" itemvalue="Application.opencv_test_objdetect_pch_dephelp" />
+      <item index="81" class="java.lang.String" itemvalue="Application.pch_Generate_opencv_objdetect" />
+      <item index="82" class="java.lang.String" itemvalue="Application.pch_Generate_opencv_perf_objdetect" />
+      <item index="83" class="java.lang.String" itemvalue="Application.pch_Generate_opencv_test_objdetect" />
+      <item index="84" class="java.lang.String" itemvalue="Application.opencv_perf_photo" />
+      <item index="85" class="java.lang.String" itemvalue="Application.opencv_perf_photo_pch_dephelp" />
+      <item index="86" class="java.lang.String" itemvalue="Application.opencv_photo" />
+      <item index="87" class="java.lang.String" itemvalue="Application.opencv_photo_pch_dephelp" />
+      <item index="88" class="java.lang.String" itemvalue="Application.opencv_test_photo" />
+      <item index="89" class="java.lang.String" itemvalue="Application.opencv_test_photo_pch_dephelp" />
+      <item index="90" class="java.lang.String" itemvalue="Application.pch_Generate_opencv_perf_photo" />
+      <item index="91" class="java.lang.String" itemvalue="Application.pch_Generate_opencv_photo" />
+      <item index="92" class="java.lang.String" itemvalue="Application.pch_Generate_opencv_test_photo" />
+      <item index="93" class="java.lang.String" itemvalue="Application.opencv_python2" />
+      <item index="94" class="java.lang.String" itemvalue="Application.opencv_shape" />
+      <item index="95" class="java.lang.String" itemvalue="Application.opencv_shape_pch_dephelp" />
+      <item index="96" class="java.lang.String" itemvalue="Application.opencv_test_shape" />
+      <item index="97" class="java.lang.String" itemvalue="Application.opencv_test_shape_pch_dephelp" />
+      <item index="98" class="java.lang.String" itemvalue="Application.pch_Generate_opencv_shape" />
+      <item index="99" class="java.lang.String" itemvalue="Application.pch_Generate_opencv_test_shape" />
+      <item index="100" class="java.lang.String" itemvalue="Application.opencv_perf_stitching" />
+      <item index="101" class="java.lang.String" itemvalue="Application.opencv_perf_stitching_pch_dephelp" />
+      <item index="102" class="java.lang.String" itemvalue="Application.opencv_stitching" />
+      <item index="103" class="java.lang.String" itemvalue="Application.opencv_stitching_pch_dephelp" />
+      <item index="104" class="java.lang.String" itemvalue="Application.opencv_test_stitching" />
+      <item index="105" class="java.lang.String" itemvalue="Application.opencv_test_stitching_pch_dephelp" />
+      <item index="106" class="java.lang.String" itemvalue="Application.pch_Generate_opencv_perf_stitching" />
+      <item index="107" class="java.lang.String" itemvalue="Application.pch_Generate_opencv_stitching" />
+      <item index="108" class="java.lang.String" itemvalue="Application.pch_Generate_opencv_test_stitching" />
+      <item index="109" class="java.lang.String" itemvalue="Application.opencv_perf_superres" />
+      <item index="110" class="java.lang.String" itemvalue="Application.opencv_perf_superres_pch_dephelp" />
+      <item index="111" class="java.lang.String" itemvalue="Application.opencv_superres" />
+      <item index="112" class="java.lang.String" itemvalue="Application.opencv_superres_pch_dephelp" />
+      <item index="113" class="java.lang.String" itemvalue="Application.opencv_test_superres" />
+      <item index="114" class="java.lang.String" itemvalue="Application.opencv_test_superres_pch_dephelp" />
+      <item index="115" class="java.lang.String" itemvalue="Application.pch_Generate_opencv_perf_superres" />
+      <item index="116" class="java.lang.String" itemvalue="Application.pch_Generate_opencv_superres" />
+      <item index="117" class="java.lang.String" itemvalue="Application.pch_Generate_opencv_test_superres" />
+      <item index="118" class="java.lang.String" itemvalue="Application.opencv_ts" />
+      <item index="119" class="java.lang.String" itemvalue="Application.opencv_ts_pch_dephelp" />
+      <item index="120" class="java.lang.String" itemvalue="Application.pch_Generate_opencv_ts" />
+      <item index="121" class="java.lang.String" itemvalue="Application.opencv_perf_video" />
+      <item index="122" class="java.lang.String" itemvalue="Application.opencv_perf_video_pch_dephelp" />
+      <item index="123" class="java.lang.String" itemvalue="Application.opencv_test_video" />
+      <item index="124" class="java.lang.String" itemvalue="Application.opencv_test_video_pch_dephelp" />
+      <item index="125" class="java.lang.String" itemvalue="Application.opencv_video" />
+      <item index="126" class="java.lang.String" itemvalue="Application.opencv_video_pch_dephelp" />
+      <item index="127" class="java.lang.String" itemvalue="Application.pch_Generate_opencv_perf_video" />
+      <item index="128" class="java.lang.String" itemvalue="Application.pch_Generate_opencv_test_video" />
+      <item index="129" class="java.lang.String" itemvalue="Application.pch_Generate_opencv_video" />
+      <item index="130" class="java.lang.String" itemvalue="Application.opencv_perf_videoio" />
+      <item index="131" class="java.lang.String" itemvalue="Application.opencv_perf_videoio_pch_dephelp" />
+      <item index="132" class="java.lang.String" itemvalue="Application.opencv_test_videoio" />
+      <item index="133" class="java.lang.String" itemvalue="Application.opencv_test_videoio_pch_dephelp" />
+      <item index="134" class="java.lang.String" itemvalue="Application.opencv_videoio" />
+      <item index="135" class="java.lang.String" itemvalue="Application.opencv_videoio_pch_dephelp" />
+      <item index="136" class="java.lang.String" itemvalue="Application.pch_Generate_opencv_perf_videoio" />
+      <item index="137" class="java.lang.String" itemvalue="Application.pch_Generate_opencv_test_videoio" />
+      <item index="138" class="java.lang.String" itemvalue="Application.pch_Generate_opencv_videoio" />
+      <item index="139" class="java.lang.String" itemvalue="Application.opencv_videostab" />
+      <item index="140" class="java.lang.String" itemvalue="Application.opencv_videostab_pch_dephelp" />
+      <item index="141" class="java.lang.String" itemvalue="Application.pch_Generate_opencv_videostab" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6e6a2c9f-fe60-46f1-ac90-264ffd3f7d95" name="Default" comment="" />
+      <created>1534904734562</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1534904734562</updated>
+      <workItem from="1534904736505" duration="8558000" />
+      <workItem from="1534926055663" duration="10985000" />
+      <workItem from="1535016242551" duration="7760000" />
+      <workItem from="1535077032822" duration="15765000" />
+      <workItem from="1535357235554" duration="13229000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="56297000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1920" y="24" width="1920" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22604166" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="CMake" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/modules/stitching/src/warpers.cpp</url>
+          <line>83</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="4" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/modules/stitching/include/opencv2/stitching.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6226">
+          <caret line="283" column="26" selection-start-line="283" selection-start-column="26" selection-end-line="283" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/stitching/src/stitcher.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4290">
+          <caret line="195" column="10" selection-start-line="195" selection-start-column="10" selection-end-line="195" selection-end-column="10" />
+          <folding>
+            <element signature="e#2731#3138#0" expanded="true" />
+            <element signature="e#3191#3257#0" expanded="true" />
+            <element signature="e#20740#21171#0" expanded="true" />
+            <element signature="e#21232#21299#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/stitching/src/warpers.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/stitching/src/util_log.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples/opencl/opencl-opencv-interop.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/stitching/include/opencv2/stitching.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6424">
+          <caret line="292" column="9" selection-start-line="292" selection-start-column="9" selection-end-line="292" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/stitching/src/stitcher.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#2731#3138#0" expanded="true" />
+            <element signature="e#3191#3257#0" expanded="true" />
+            <element signature="e#20740#21171#0" expanded="true" />
+            <element signature="e#21232#21299#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/stitching/src/warpers.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2222">
+          <caret line="101" column="18" selection-start-line="101" selection-start-column="18" selection-end-line="101" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/stitching/include/opencv2/stitching/detail/warpers_inl.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4686">
+          <caret line="213" column="21" selection-start-line="213" selection-start-column="21" selection-end-line="213" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/stitching/include/opencv2/stitching.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6534">
+          <caret line="297" column="23" selection-start-line="297" selection-start-column="16" selection-end-line="297" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/stitching/src/stitcher.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#2731#3138#0" expanded="true" />
+            <element signature="e#3191#3257#0" expanded="true" />
+            <element signature="e#20740#21171#0" expanded="true" />
+            <element signature="e#21232#21299#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/stitching/src/warpers.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2222">
+          <caret line="101" column="18" selection-start-line="101" selection-start-column="18" selection-end-line="101" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/stitching/include/opencv2/stitching/detail/warpers_inl.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4686">
+          <caret line="213" column="21" selection-start-line="213" selection-start-column="21" selection-end-line="213" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/stitching/include/opencv2/stitching.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6820">
+          <caret line="310" column="11" selection-start-line="310" selection-start-column="11" selection-end-line="310" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/stitching/include/opencv2/stitching/detail/matchers.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1342">
+          <caret line="61" column="18" selection-start-line="61" selection-start-column="18" selection-end-line="61" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/core/include/opencv2/core/types.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/opencv-3_2_0-a458d099/a458d099/Release/modules/core/opencv_perf_core_pch_dephelp.cxx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/core/include/opencv2/core/types.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="912">
+          <caret line="412" column="10" selection-start-line="412" selection-start-column="10" selection-end-line="412" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/stitching/include/opencv2/stitching/detail/matchers.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="98" column="17" selection-start-line="98" selection-start-column="17" selection-end-line="98" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/stitching/include/opencv2/stitching/detail/exposure_compensate.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="85" column="17" selection-start-line="85" selection-start-column="17" selection-end-line="85" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/stitching/src/exposure_compensate.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="60" column="26" selection-start-line="60" selection-start-column="26" selection-end-line="60" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/stitching/include/opencv2/stitching/detail/warpers_inl.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="213" column="21" selection-start-line="213" selection-start-column="21" selection-end-line="213" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/stitching/src/precomp.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-408">
+          <caret line="43" column="38" selection-start-line="43" selection-start-column="38" selection-end-line="43" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/core/include/opencv2/core/private.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5650">
+          <caret line="293" column="1" selection-start-line="293" selection-start-column="1" selection-end-line="293" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3rdparty/ippicv/downloader.cmake">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-224">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="223" column="23" selection-start-line="223" selection-start-column="17" selection-end-line="223" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples/gpu/performance/tests.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="109" column="13" selection-start-line="109" selection-start-column="13" selection-end-line="109" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples/opencl/opencl-opencv-interop.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/core/include/opencv2/core/mat.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="380" column="28" selection-start-line="380" selection-start-column="28" selection-end-line="380" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/opencv-3_2_0-a458d099/a458d099/__default__/cvconfig.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="123" column="8" selection-start-line="123" selection-start-column="8" selection-end-line="123" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/core/src/matrix.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="428">
+          <caret line="2253" column="26" selection-start-line="2253" selection-start-column="26" selection-end-line="2253" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/core/include/opencv2/core/mat.inl.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="950" column="10" selection-start-line="950" selection-start-column="10" selection-end-line="950" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/core/src/umatrix.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="746" column="10" selection-start-line="746" selection-start-column="10" selection-end-line="746" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/stitching/src/util_log.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="22" column="15" selection-start-line="14" selection-start-column="2" selection-end-line="22" selection-end-column="15" />
+          <folding>
+            <element signature="e#405#671#0" expanded="true" />
+            <element signature="e#804#834#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/stitching/include/opencv2/stitching/detail/warpers.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="93" column="18" selection-start-line="93" selection-start-column="18" selection-end-line="93" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/stitching/include/opencv2/stitching/warpers.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="502">
+          <caret line="73" column="34" selection-start-line="73" selection-start-column="34" selection-end-line="73" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/imgproc/src/imgwarp.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="4896" column="9" selection-start-line="4896" selection-start-column="9" selection-end-line="4896" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/core/include/opencv2/core/base.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="253" column="4" selection-start-line="253" selection-start-column="4" selection-end-line="253" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/imgproc/include/opencv2/imgproc.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="268" column="4" selection-start-line="268" selection-start-column="4" selection-end-line="268" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/stitching/src/warpers.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="407" column="39" selection-start-line="407" selection-start-column="39" selection-end-line="407" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/stitching/src/stitcher.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="626">
+          <caret line="399" column="42" selection-start-line="399" selection-start-column="42" selection-end-line="399" selection-end-column="42" />
+          <folding>
+            <element signature="e#2731#3138#0" expanded="true" />
+            <element signature="e#3191#3257#0" expanded="true" />
+            <element signature="e#20740#21171#0" expanded="true" />
+            <element signature="e#21232#21299#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/stitching/include/opencv2/stitching.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="846">
+          <caret line="304" column="40" selection-start-line="304" selection-start-column="40" selection-end-line="304" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
